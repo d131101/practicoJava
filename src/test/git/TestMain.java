@@ -9,6 +9,8 @@ public class TestMain{
 		
 		test.hiTest();
 
+		System.out.println("Hola mundo222");
+
 	}
 
 	

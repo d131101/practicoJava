@@ -17,5 +17,11 @@ public class Probing implements TestingInterface {
 		System.out.println(frase);
 
 	}
+	
+	@Override
+	public void byeTest() {
+		
+		System.out.println("bye");
+	}
 
 }

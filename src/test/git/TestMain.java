@@ -1,4 +1,4 @@
-package test.git;
+package git;
 
 public class TestMain{
 
@@ -10,6 +10,8 @@ public class TestMain{
 		test.hiTest();
 		
 		System.out.println("Hola mundo222");
+		
+		test.byeTest();
 		
 		
 

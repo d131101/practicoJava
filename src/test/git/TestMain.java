@@ -1,4 +1,4 @@
-package git;
+package test.git;
 
 public class TestMain{
 

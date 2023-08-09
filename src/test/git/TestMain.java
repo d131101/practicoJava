@@ -1,4 +1,4 @@
-package test.git;
+package git;
 
 public class TestMain{
 
@@ -8,8 +8,12 @@ public class TestMain{
 		TestingInterface test= new Probing();
 		
 		test.hiTest();
-
+		
 		System.out.println("Hola mundo222");
+		
+		test.byeTest();
+		
+		
 
 	}
 
